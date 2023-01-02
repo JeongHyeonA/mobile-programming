@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797454820299",
+    "firebase_url": "https://codingsalad-91c9d-default-rtdb.firebaseio.com",
+    "project_id": "codingsalad-91c9d",
+    "storage_bucket": "codingsalad-91c9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797454820299:android:19d63315d24985727ecc4e",
+        "android_client_info": {
+          "package_name": "com.example.codingsalad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797454820299-u2ghglh8ievstp91472035c7tkf20sb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADHLDd1I6iuJJtPtCEfjjyXkafHGhPds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797454820299-u2ghglh8ievstp91472035c7tkf20sb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
